@@ -2438,8 +2438,8 @@ fieldset:disabled a.btn {
 
 .btn-primary {
   color: #fff;
-  background-color: #f4623a;
-  border-color: #f4623a;
+  background-color: #FEAD3A;
+  border-color: #FEAD3A;
 }
 .btn-primary:hover {
   color: #fff;
@@ -6073,7 +6073,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #f4623a !important;
+  background-color: #FEAD3A !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
@@ -6143,7 +6143,7 @@ button.bg-light:focus {
 }
 
 .bg-dark {
-  background-color: #343a40 !important;
+  background-color: #534F4C !important;
 }
 
 a.bg-dark:hover, a.bg-dark:focus,
@@ -9775,7 +9775,7 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: #f4623a !important;
+  color: #FDC400 !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
@@ -9986,7 +9986,7 @@ html {
 hr.divider {
   max-width: 3.25rem;
   border-width: 0.2rem;
-  border-color: #f4623a;
+  border-color: #FEAD3A;
 }
 
 hr.light {
@@ -10123,7 +10123,7 @@ header.masthead h1 {
   text-align: center;
   opacity: 0;
   color: #fff;
-  background: rgba(244, 98, 58, 0.9);
+  background: #FEAD3A;
   transition: opacity 0.25s ease;
   text-align: center;
 }
@@ -10147,4 +10147,5 @@ header.masthead h1 {
 .profile-pic{
   border-radius: 50%;
   width: 300px;
+  max-height: 280px;
 }
